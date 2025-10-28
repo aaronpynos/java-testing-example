@@ -1,4 +1,4 @@
-# java-testing-example
+# java-testing-example 
 
 This is the Java repository we'll work out of during this [training
 event](https://github.com/testdouble/contributing-tests/wiki/5-Day-Training-Agenda).
